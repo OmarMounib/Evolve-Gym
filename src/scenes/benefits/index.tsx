@@ -112,7 +112,7 @@ function Benefits({ setSelectedPage }: Props) {
                 }}
               >
                 <Htext>
-                  MILLIONS OF HAPPY MEMBER GETTING{""}
+                  MILLIONS OF HAPPY MEMBER GETTING {""}
                   <span className="text-primary-500">FIT</span>
                 </Htext>
               </motion.div>
